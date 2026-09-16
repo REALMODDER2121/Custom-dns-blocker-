@@ -25,8 +25,8 @@ Follow these simple steps to configure this custom DNS on your PS4 console:
 6. For DHCP Host Name, choose **Do Not Specify**.
 7. For **DNS Settings**, select **Manual**.
 8. Enter the custom DNS server addresses:
-   * **Primary DNS:** `8.8.8.8` *(Ganti dengan IP DNS Primary milikmu)*
-   * **Secondary DNS:** `8.8.4.4` *(Ganti dengan IP DNS Secondary milikmu)*
+   * **Primary DNS:** `45.90.28.241` 
+   * **Secondary DNS:** `45.90.30.241` 
 9. For MTU Settings, choose **Automatic**.
 10. For Proxy Server, choose **Do Not Specify**.
 11. Test your internet connection to ensure everything is configured correctly.
