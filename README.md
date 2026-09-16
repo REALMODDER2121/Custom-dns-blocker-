@@ -1,7 +1,7 @@
 # Custom-dns-blocker-
 Custom dns for ps 4 homebrew 
 
-# 🌐 Custom DNS Server for PS4 / PC
+# 🌐 Custom DNS Server for PS4 / PS5
 
 A high-performance custom DNS server configuration designed to optimize connection stability, block unwanted telemetry/updates, and provide seamless access to homebrew exploit hosts (e.g., PS4 HEN/PPPwn).
 
