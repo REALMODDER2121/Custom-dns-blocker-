@@ -53,8 +53,8 @@ address=/karo218.ir/YOUR_LOCAL_HOST_IP
 
 Klik tautan di bawah ini untuk mengunduh file konfigurasi mentah atau alat bantu setup:
 
-* 📄 **DNS Config Files (.conf / .txt):** [Download DNS Config](https://sites.google.com/view/custom-dns-event/halaman-muka) *(Ganti dengan link file aslimu)*
-* 🛠️ **DNS Benchmarking Tool:** [Download Namebench Tool](https://google.com)
+* 📄 **DNS Config Files (.conf / .txt):** [https://sites.google.com/view/custom-dns-event/halaman-muka]
+* 🛠️ **DNS Benchmarking Tool:** [error]
 (optional)
 ---
 
